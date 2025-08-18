@@ -897,6 +897,7 @@ var (
 		"m6idn.16xlarge":       100000,
 		"m6in.16xlarge":        100000,
 		"p3dn.24xlarge":        100000,
+		"p5.4xlarge":           100000,
 		"r5dn.24xlarge":        100000,
 		"r5dn.metal":           100000,
 		"r5n.24xlarge":         100000,
